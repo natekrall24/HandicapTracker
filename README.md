@@ -1,1 +1,1 @@
-A React Web Application to store and calculate golf handicaps.
+A React Web Application to store and calculate golf handicaps. EDITED
